@@ -101,7 +101,7 @@ public class BoundedStack implements Stack {
 
         @Override
         public Integer find(int element) {
-            return 0;
+            return null;
         }
     }
 }
